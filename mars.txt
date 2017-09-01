@@ -2,3 +2,9 @@ Cold and dry, but everything is my favorite color
 
 The two moons may be a problem for Wolfman
 change mars.txt in planets2
+updating mars.txt inside 'planets' directory
+On branch master
+Changes not staged for commit:
+	modified:   mars.txt
+
+no changes added to commit
